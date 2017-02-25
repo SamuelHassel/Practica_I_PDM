@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">HolaMundos_2</string>
+    <string name="app_name">ConversorAppp</string>
+    <string name="titulo">CONVERSOR</string>
+    <string name="pesos">Pesos</string>
+    <string name="dolares">Dolares</string>
+    <string name="convertir">Convertir</string>
 </resources>
